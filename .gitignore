@@ -4,3 +4,9 @@ build/
 /.vs
 .idea/
 CMakeSettings.json
+obj*
+debian/y-cpp-hello-world
+debian/.debhelper
+debian/*.substvars
+debian/files
+debian/debhelper-build-stamp
