@@ -2,7 +2,7 @@ Source: y-cpp-hello-world
 Section: misc
 Priority: optional
 Maintainer: yesseruser <yesseruseryt@gmail.com>
-Build-Depends: debhelper-compat (= 13), dh-cmake, cmake, g++
+Build-Depends: debhelper-compat (= 13), dh-cmake, cmake, g++ (>= 13)
 Standards-Version: 4.5.1
 
 Package: y-cpp-hello-world
