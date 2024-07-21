@@ -6,7 +6,7 @@ Build-Depends: debhelper-compat (= 13), dh-cmake, cmake, g++ (>= 13)
 Standards-Version: 4.5.1
 
 Package: y-cpp-hello-world
-Architecture: amd64
+Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: yesseruser's C++ Hello World
  This package prints "Hello, world! from C++!".
